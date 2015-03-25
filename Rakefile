@@ -11,4 +11,5 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'DynamicallyAddViewSample'
+  app.api_version = '10'
 end
