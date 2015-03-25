@@ -12,7 +12,7 @@
     android:singleLine="true"
     android:ems="10"
     android:hint="">
-    <requentFocus />
+    <requestFocus />
   </EditText>
   <Spinner
     android:id="@+id/spinner_category"
@@ -25,5 +25,6 @@
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
     android:layout_marginRight="8dp"
+    android:text="@string/btn_delete_row"
     android:textSize="20dp" />
 </LinearLayout>

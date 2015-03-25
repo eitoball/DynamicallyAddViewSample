@@ -11,7 +11,7 @@
   <string name="btn_add_new_text">新しく追加する</string>
   <string name="btn_delete_row_description">削除</string>
   <string name="btn_delete_row">X</string>
-  <string-array name="caterories">
+  <string-array name="categories">
   	<item>自宅</item>
   	<item>勤務先</item>
   	<item>携帯</item>
